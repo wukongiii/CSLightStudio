@@ -52,3 +52,5 @@ CSLightStudio/unity/CSLightEvil35.dll
 /CSLightStudio/unity/perfermance/*.suo
 /CSLightStudio/unity/perfermance/*.exe
 /CSLightStudio/unity/ScriptHelloWorld/Temp
+
+*.meta
